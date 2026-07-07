@@ -1,0 +1,8 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Backup files
+*_backup*
+debug_balance.php
+check_balance.php

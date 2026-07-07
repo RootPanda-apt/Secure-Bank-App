@@ -14,3 +14,4 @@ git clone https://github.com/YOUR_USERNAME/securebank.git
 cd securebank
 docker build -t securebank .
 docker run -d -p 8080:80 --name bankapp securebank
+then go to web and access http://localhost:8080/bankapp
